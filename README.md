@@ -3,6 +3,11 @@
 > It is not enough to do your best: you must KNOW what to do, and THEN do your best.
 > **-- W. Edwards Deming**
 
+## Applicable Dates
+
+* MON 2019-04-29
+* TUE 2019-04-30
+
 ## References and Prerequisites
 
 * [Arcade App v2019.sp Project Description](https://github.com/cs1302uga/cs1302-arcade)
