@@ -3,6 +3,12 @@
 > It is not enough to do your best: you must KNOW what to do, and THEN do your best.
 > **-- W. Edwards Deming**
 
+## References and Prerequisites
+
+* [Arcade App v2019.sp Project Description](https://github.com/cs1302uga/cs1302-arcade)
+
+## Exercise Steps
+
 1. Grab an activity slip, then **work on your project**. 
 
 1. There is no checkpoint, however, you need to turn in your activity slip 
