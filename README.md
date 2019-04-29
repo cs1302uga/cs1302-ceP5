@@ -17,7 +17,8 @@
 1. Grab an activity slip, then **work on your project**. 
 
 1. There is no checkpoint, however, you need to turn in your activity slip 
-   **at the end of the period** to receive attendance points.
+   **at the end of the period** to receive attendance points. Slips that
+   are turned in too early are likely to be discarded. 
 
 <hr/>
 
